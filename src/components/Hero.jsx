@@ -28,8 +28,9 @@ const Hero = () => {
       </h1>
 
       <h2 className='desc'>
-      Introducing Compresso, an open-source article summarizer that offers a streamlined reading experience. With Compresso, lengthy articles are transformed into concise and clear summaries, enabling you to easily grasp the main points without having to spend hours reading through paragraphs. Compresso is designed to simplify your reading and help you stay informed, no matter how busy your schedule may be. Best of all, its completely free and open-source, so you can trust that your data is secure and your privacy is protected.
+        Introducing Briefify, an open-source article summarizer that streamlines <span className="bg-yellow-200">content creation & curation</span>. Transform lengthy articles into concise summaries effortlessly, allowing you to grasp key points without spending hours reading. Briefify simplifies your reading experience, ensuring you stay informed, all while prioritizing data security and privacy.
       </h2>
+
     </header>
   )
 }
