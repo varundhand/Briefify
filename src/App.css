@@ -45,15 +45,15 @@
   max-width: 640px;
   background-image: radial-gradient(
     at 27% 37%,
-    #92cac9 0px,
+    #ff5e5b 0px,
     transparent 0%
-    ),
-    radial-gradient(at 97% 21%, #008000 0px, transparent 50%),
-    radial-gradient(at 52% 99%, cyan 0px, transparent 50%),
-    radial-gradient(at 10% 29%, orange 0px, transparent 50%),
-    radial-gradient(at 97% 96%, #ffa500 0px, transparent 50%),
-    radial-gradient(at 33% 50%, #92cac9 0px, transparent 50%),
-    radial-gradient(at 79% 53%, #ff4500 0px, transparent 50%);
+  ),
+  radial-gradient(at 97% 21%, #ffdd67 0px, transparent 50%),
+  radial-gradient(at 52% 99%, #48c6ef 0px, transparent 50%),
+  radial-gradient(at 10% 29%, #ffa931 0px, transparent 50%),
+  radial-gradient(at 97% 96%, #ff66b2 0px, transparent 50%),
+  radial-gradient(at 33% 50%, #a884eb 0px, transparent 50%),
+  radial-gradient(at 79% 53%, #43e97b 0px, transparent 50%);
   position: absolute;
   content: "";
   width: 100%;
@@ -62,6 +62,7 @@
   top: 80px;
   opacity: 0.15;
 }
+
 
 @media screen and (max-width: 640px) {
   .main {
@@ -76,7 +77,7 @@
 }
 
 .black_btn {
-  @apply rounded-full border border-black bg-black py-1.5 px-5 text-sm text-white transition-all hover:bg-white hover:text-black;
+  @apply rounded-full border border-black bg-black py-3 px-3 text-sm text-white transition-all hover:bg-white hover:text-black;
 }
 
 .head_text {
