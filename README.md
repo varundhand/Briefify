@@ -26,7 +26,7 @@ To use Briefify locally, follow these steps:
 
 ## Live Project
 
-Visit the live project at [Briefify](#)
+Visit the live project at [Briefify](https://briefify-webapp.netlify.app/)
 
 ## Technologies Used
 
