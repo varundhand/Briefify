@@ -17,7 +17,7 @@
 }
 
 .main:before {
-  background: radial-gradient(circle, rgba(255, 255, 0, 0.1) 0, rgba(255, 255, 0, 0.05) 100%);
+  background: url('src/assets/bg.svg');
   position: absolute;
   content: "";
   z-index: 2;
