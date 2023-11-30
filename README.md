@@ -7,6 +7,10 @@
 
 Briefify is an open-source article summarizer that aims to simplify reading by providing clear and concise summaries of lengthy articles. Designed with a focus on user experience, it transforms extensive content into manageable insights, saving users time and effort. Briefify is built using React, Tailwind CSS, Redux, and integrated with RapidAPI for enhanced functionality.
 
+## Demo
+https://github.com/varundhand/Briefify/assets/110025628/9e4f68cb-1513-46d9-ac17-7dece7631e3a
+
+
 ## Features
 
 - **Effortless Summaries**: Get clear and concise summaries of lengthy articles.
